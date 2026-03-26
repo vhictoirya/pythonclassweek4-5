@@ -1,0 +1,101 @@
+Rank,Name,Ticker,Price,1h %,24h %,7d %,Volume 24h,Market Cap
+1,Bitcoin,BTC,Buy,"$71,041.36",0.1%,2.4%,0.8%,8.7%
+2,Ethereum,ETH,Buy,"$2,170.55",0.1%,2.6%,1.5%,16.5%
+3,Tether,USDT,,$0.9996,0.0%,0.0%,0.0%,0.0%
+4,BNB,BNB,Buy,$645.82,0.2%,2.6%,0.5%,7.1%
+5,XRP,XRP,Buy,$1.42,0.1%,2.0%,2.8%,3.6%
+6,USDC,USDC,,$0.9998,0.0%,0.0%,0.0%,0.0%
+7,Solana,SOL,Buy,$92.03,0.0%,3.2%,2.3%,18.3%
+8,TRON,TRX,Buy,$0.3131,0.0%,0.9%,3.4%,11.1%
+9,Figure Heloc,FIGR_HELOC,Buy,$1.03,0.0%,0.1%,0.0%,1.5%
+10,Dogecoin,DOGE,Buy,$0.09634,0.0%,4.0%,2.6%,2.0%
+11,WhiteBIT Coin,WBT,Buy,$54.73,0.1%,1.7%,3.6%,13.8%
+12,USDS,USDS,,$1.00000,0.0%,0.0%,0.0%,0.0%
+13,Cardano,ADA,Buy,$0.2707,0.2%,4.3%,0.6%,1.7%
+14,Hyperliquid,HYPE,Buy,$40.62,0.2%,3.0%,6.6%,56.5%
+15,Bitcoin Cash,BCH,Buy,$476.47,0.1%,0.7%,5.3%,9.7%
+16,LEO Token,LEO,Buy,$9.41,0.1%,0.7%,3.8%,16.4%
+17,Chainlink,LINK,Buy,$9.36,0.5%,3.4%,2.2%,11.6%
+18,Monero,XMR,Buy,$348.80,1.3%,2.3%,0.7%,12.7%
+19,Ethena USDe,USDE,,$1.00,0.1%,0.1%,0.1%,0.1%
+20,Stellar,XLM,Buy,$0.1774,0.4%,7.4%,6.0%,17.2%
+21,Canton,CC,Buy,$0.1414,2.8%,0.9%,3.6%,11.2%
+22,USD1,USD1,,$0.9995,0.0%,0.0%,0.0%,0.1%
+23,Litecoin,LTC,Buy,$56.38,0.2%,1.5%,1.4%,8.7%
+24,Dai,DAI,Buy,$0.9999,0.0%,0.0%,0.0%,0.0%
+25,Rain,RAIN,Buy,$0.008854,1.0%,2.1%,1.5%,6.6%
+26,Avalanche,AVAX,Buy,$9.68,0.0%,3.0%,0.5%,13.0%
+27,MemeCore,M,Buy,$2.34,2.1%,36.0%,26.3%,68.4%
+28,Hedera,HBAR,Buy,$0.09489,0.3%,3.0%,1.1%,0.2%
+29,PayPal USD,PYUSD,,$1.00,0.0%,0.0%,0.0%,0.0%
+30,Zcash,ZEC,Buy,$236.76,0.3%,4.9%,4.0%,2.2%
+31,Sui,SUI,Buy,$0.9648,0.6%,3.5%,1.6%,10.5%
+32,Shiba Inu,SHIB,Buy,$0.056122,0.1%,1.1%,6.0%,2.0%
+33,Bittensor,TAO,Buy,$365.75,1.4%,14.7%,36.8%,117.1%
+34,Toncoin,TON,Buy,$1.33,0.2%,0.4%,2.4%,0.9%
+35,Cronos,CRO,Buy,$0.07516,0.1%,0.5%,1.2%,1.1%
+36,World Liberty Financial,WLFI,Buy,$0.1022,0.0%,1.5%,3.4%,9.5%
+37,Tether Gold,XAUT,Buy,"$4,546.30",0.0%,3.3%,6.6%,12.4%
+38,Circle USYC,USYC,Buy,$1.12,-,-,-,-
+39,Mantle,MNT,Buy,$0.7428,0.1%,5.8%,5.2%,28.6%
+40,Uniswap,UNI,Buy,$3.71,0.6%,4.5%,1.0%,11.1%
+41,PAX Gold,PAXG,Buy,"$4,554.60",0.0%,3.4%,6.7%,12.9%
+42,Polkadot,DOT,Buy,$1.38,0.8%,1.0%,11.4%,8.2%
+43,BlackRock USD Institutional Digital Liquidity Fund,BUIDL,Buy,$1.00,0.0%,0.0%,0.0%,0.0%
+44,Pi Network,PI,Buy,$0.1893,0.2%,1.8%,10.3%,19.0%
+45,OKB,OKB,Buy,$86.94,0.0%,1.6%,5.1%,16.1%
+46,Global Dollar,USDG,,$0.9999,0.0%,0.0%,0.0%,0.0%
+47,Falcon USD,USDF,,$0.9984,0.0%,0.0%,0.1%,0.1%
+48,Aave,AAVE,Buy,$113.11,2.0%,4.2%,0.7%,2.5%
+49,Siren,SIREN,Buy,$2.37,7.5%,132.5%,163.2%,692.3%
+50,Sky,SKY,Buy,$0.07384,0.5%,4.7%,3.4%,18.4%
+51,NEAR Protocol,NEAR,Buy,$1.28,0.2%,0.0%,7.2%,31.5%
+52,Aster,ASTER,Buy,$0.6622,0.2%,0.0%,5.2%,4.4%
+53,HTX DAO,HTX,Buy,$0.051708,0.0%,0.1%,2.2%,2.7%
+54,Pepe,PEPE,Buy,$0.053548,0.4%,4.3%,2.1%,11.5%
+55,Ripple USD,RLUSD,,$0.9999,0.0%,0.0%,0.0%,0.0%
+56,Bitget Token,BGB,Buy,$2.04,0.0%,0.6%,4.9%,9.2%
+57,Ethereum Classic,ETC,Buy,$8.69,0.0%,3.0%,3.3%,3.8%
+58,Internet Computer,ICP,Buy,$2.40,0.2%,2.3%,6.4%,17.2%
+59,BFUSD,BFUSD,,$0.9992,0.0%,0.0%,0.0%,0.0%
+60,Ondo US Dollar Yield,USDY,,$1.11,1.4%,1.0%,0.6%,0.7%
+61,Ondo,ONDO,Buy,$0.2605,0.3%,4.6%,1.9%,5.0%
+62,Gate,GT,Buy,$6.76,0.1%,1.5%,3.5%,1.5%
+63,Pump.fun,PUMP,Buy,$0.001900,1.3%,7.2%,2.4%,1.6%
+64,Quant,QNT,Buy,$76.82,0.7%,5.6%,9.2%,23.7%
+65,KuCoin,KCS,Buy,$8.23,0.2%,1.1%,2.4%,2.0%
+66,Kaspa,KAS,Buy,$0.03847,0.2%,7.3%,2.3%,29.4%
+67,Janus Henderson Anemoy Treasury Fund,JTRSY,Buy,$1.10,0.0%,0.0%,0.1%,0.3%
+68,POL (ex-MATIC),POL,Buy,$0.09774,0.3%,3.9%,0.5%,8.3%
+69,Worldcoin,WLD,Buy,$0.3185,0.0%,1.4%,11.5%,15.0%
+70,Render,RENDER,Buy,$1.88,0.9%,10.8%,10.2%,38.0%
+71,Spiko EU T-Bills Money Market Fund,EUTBL,Buy,$1.21,0.0%,0.0%,0.6%,1.7%
+72,Morpho,MORPHO,Buy,$1.73,0.4%,1.6%,3.3%,10.3%
+73,NEXO,NEXO,Buy,$0.8960,0.2%,0.9%,0.1%,6.9%
+74,Superstate Short Duration U.S. Government Securities Fund (USTB),USTB,Buy,$11.03,0.0%,0.0%,0.1%,0.3%
+75,Cosmos Hub,ATOM,Buy,$1.77,0.2%,0.3%,6.7%,17.0%
+76,Ethena,ENA,Buy,$0.1007,0.6%,9.0%,6.3%,2.5%
+77,Aptos,APT,Buy,$1.07,0.0%,3.7%,12.8%,32.8%
+78,USDtb,USDTB,,$1.00,0.0%,0.0%,0.0%,0.1%
+79,USDD,USDD,,$1.00,0.0%,0.0%,0.0%,0.1%
+80,Algorand,ALGO,Buy,$0.08793,0.4%,2.7%,3.1%,5.6%
+81,Provenance Blockchain,HASH,Buy,$0.01386,0.2%,2.8%,14.0%,22.6%
+82,Official Trump,TRUMP,Buy,$3.28,0.7%,0.9%,6.8%,2.3%
+83,Midnight,NIGHT,Buy,$0.04487,0.2%,6.8%,5.5%,22.9%
+84,Filecoin,FIL,Buy,$0.9340,0.0%,3.1%,2.0%,5.8%
+85,Flare,FLR,Buy,$0.008029,0.0%,0.3%,5.2%,11.5%
+86,OUSG,OUSG,Buy,$114.69,0.0%,0.0%,0.1%,0.3%
+87,XDC Network,XDC,Buy,$0.03207,0.7%,2.0%,1.1%,4.1%
+88,Beldex,BDX,Buy,$0.08318,0.5%,0.1%,3.7%,3.8%
+89,VeChain,VET,Buy,$0.007131,0.1%,1.4%,1.5%,1.3%
+90,Arbitrum,ARB,Buy,$0.09947,0.3%,4.2%,2.2%,8.2%
+91,YLDS,YLDS,Buy,$0.9999,0.0%,0.0%,0.0%,0.0%
+92,GHO,GHO,Buy,$0.9990,0.0%,0.0%,0.1%,0.1%
+93,Artificial Superintelligence Alliance,FET,Buy,$0.2573,3.0%,10.9%,16.7%,66.1%
+94,​​Stable,STABLE,Buy,$0.02684,0.2%,6.4%,1.7%,5.6%
+95,Usual USD,USD0,,$0.9982,0.0%,0.0%,0.0%,0.0%
+96,Bonk,BONK,Buy,$0.056276,0.4%,6.2%,2.7%,6.8%
+97,LayerZero,ZRO,Buy,$2.18,0.7%,0.7%,0.2%,46.0%
+98,Jupiter,JUP,Buy,$0.1560,0.0%,3.0%,4.2%,8.7%
+99,JUST,JST,Buy,$0.06032,0.8%,2.3%,3.3%,34.3%
+100,TrueUSD,TUSD,,$0.9985,0.0%,0.0%,0.1%,0.1%
